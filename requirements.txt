@@ -1,0 +1,4 @@
+nostr-sdk
+requests
+python-dotenv
+langdetect
